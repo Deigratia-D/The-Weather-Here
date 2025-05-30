@@ -1,0 +1,9 @@
+p {
+    padding: 10px;
+    background-color: crimson;
+}
+
+#mapWeather {
+    height: 250px;
+    width: 500px;
+}

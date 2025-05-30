@@ -1,0 +1,23 @@
+{
+  "name": "api_keys_app_deploy",
+  "version": "1.0.0",
+  "description": "This is the weather now app by Joey Lee.",
+  "keywords": [
+    "example",
+    "weather",
+    "app"
+  ],
+  "license": "MIT",
+  "author": "Drew following Daniel Shiffman following Joey Lee",
+  "type": "commonjs",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@seald-io/nedb": "^4.1.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
